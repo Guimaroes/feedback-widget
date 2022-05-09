@@ -1,6 +1,6 @@
-import { Widget } from "./components/Widget";
+import { FakeApp } from "./components/FakeApp";
 
 export function App() {
-  return <Widget />
+  return <FakeApp />
 }
 
